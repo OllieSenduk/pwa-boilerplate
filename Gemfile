@@ -19,6 +19,7 @@ gem 'webpacker'
 
 # Added gems
 gem 'serviceworker-rails'
+gem 'foreman'
 
 group :development do
   gem 'web-console', '>= 3.3.0'
